@@ -1,7 +1,7 @@
 package com.kotlinplayground.basics
 
 fun main() {
-    // val = immutable
+    // val = value, immutable
     val name: String = "Beelzebub"
     println(name)
 
